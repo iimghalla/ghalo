@@ -1,4 +1,4 @@
-from decimal import Decimal, InvalidOperation
+rom decimal import Decimal, InvalidOperation
 
 import streamlit as st
 
